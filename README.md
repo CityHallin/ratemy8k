@@ -9,8 +9,12 @@ Since mid-2023, the Securities and Exchange Commission (SEC) implemented new req
 
 ### Notifications <a name="notifications"></a>
 Notifications are sent to the platforms below. Over time, I'd like to expand this to other platforms or integrations. 
+
+- **Mastodon**: The primary platform for notifications is the [RateMy8K Mastodon Account](https://mastodon.social/@ratemy8k). This account can be viewed by anyone in a browser, but a logged in Mastodon account is required in order to follow RateMy8K for proactive notifications.
+
+- **Website**: The [RateMy8K.info](https://www.ratemy8k.info/) site is currently a very slim, bare bones page showing data from RateMy8K's creation July 2024. Users can search the current list of 8-K 1.05 filings from the site or pull a CSV download. 
+
 - **Discord**: This feature currently only sends to my personal Discord server for testing and debugging. 
-- **Mastodon**: The primary platform for notifications is the [RateMy8K Mastodon Account](https://mastodon.social/@ratemy8k). This account can be viewed by anyone in a browser, but a logged in Mastodon account is required in order to follow RateMy8K for proactive notifications. The Mastodon posts give information about the organization, its SEC identifiers, and a link directly to the filing in question for anyone in the public to view.  
 
 ### Design <a name="design"></a>
 <img src="./readme_files/design.png" width="800px">
