@@ -12,8 +12,6 @@ Notifications are sent to the platforms below. Over time, I'd like to expand thi
 
 - **Mastodon**: The primary platform for notifications is the [RateMy8K Mastodon Account](https://mastodon.social/@ratemy8k). This account can be viewed by anyone in a browser, but a logged in Mastodon account is required in order to follow RateMy8K for proactive notifications.
 
-- **Website**: The [RateMy8K.info](https://www.ratemy8k.info/) site is currently a very slim, bare bones page showing data from RateMy8K's creation July 2024. Users can search the current list of 8-K 1.05 filings from the site or pull a CSV download. 
-
 - **Discord**: This feature currently only sends to my personal Discord server for testing and debugging. 
 
 ### Design <a name="design"></a>
